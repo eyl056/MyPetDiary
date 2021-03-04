@@ -30,6 +30,7 @@ https://github.com/ProjectInTheClass/MyPetDiary_iosapp
 <img src="https://img.shields.io/badge/Xcode-12.3-blue">
 <img src="https://img.shields.io/badge/CocoaPods-1.10.0-white">
 <img src="https://img.shields.io/badge/firebase-7.3.0-yellow">
+<a href="https://github.com/eyl056/MyPetDiary/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/eyl056/MyPetDiary"></a>
 </p>
 
 <br>
