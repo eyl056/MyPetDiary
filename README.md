@@ -27,6 +27,10 @@ https://github.com/ProjectInTheClass/MyPetDiary_iosapp
 <br>
 <br>
 
+## 기능
+![image](https://user-images.githubusercontent.com/45346786/131145327-99b94587-5fdf-456c-9666-443614442907.png)
+
+<br><br>
 ## ⚙️ IDE & Libraries
 
 <p>
