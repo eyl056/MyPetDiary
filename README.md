@@ -9,8 +9,12 @@
 </h4>
 <br>
 <br>
-
 https://github.com/ProjectInTheClass/MyPetDiary_iosapp
+<br><br><br>
+
+### [앱 소개 보러가기!!](https://projectintheclass.github.io/MyPetDiary_iosapp/)
+
+
 
 ```
 펫디는 오늘 반려동물과의 있었던 일을 기록하고 반려동물과의 일상을 다른 사람들과 공유할 수 있는 어플리케이션입니다
